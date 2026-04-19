@@ -22,7 +22,7 @@ export default function Contact() {
         },
         body: JSON.stringify({
           // TODO: Replace with your actual Web3Forms Access Key
-          access_key: "88c2d455-4991-4574-a723-66a07fe6a72e",
+          access_key: "0e37a4ba-903b-42be-9041-9aba8275ac56",
           name: form.name,
           email: form.email,
           subject: form.subject || 'Portfolio Inquiry',
