@@ -88,7 +88,7 @@ export default function Hero() {
           <div className="hero-visual">
             <div className="hero-avatar-wrap">
               <div className="hero-avatar" style={{ overflow: 'hidden', padding: 0, background: 'transparent' }}>
-                <img src="/flutter-code.png" alt="Flutter Code" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                <img src={`${import.meta.env.BASE_URL}flutter-code.png`} alt="Flutter Code" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
               </div>
 
               {/* Floating Card 1 */}
