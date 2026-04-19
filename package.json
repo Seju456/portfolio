@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Seju456.github.io/sejal-portfolio",
+  "homepage": "https://seju456.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
