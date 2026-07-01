@@ -62,7 +62,7 @@ const PROJECTS = [
     subtitle: 'Dating Application',
     desc: (
       <>
-        Developed a one-tap dating app focused on converting real-life missed connections into instant, meaningful matches. Built a scalable Flutter architecture with real-time interactions.
+        Engineered a one-tap dating app focused on converting real-life missed connections into instant, meaningful matches. Built a scalable Flutter architecture with real-time interactions.
         <ul style={{ paddingLeft: '1.2rem', marginTop: '8px', marginBottom: 0 }}>
           <li>Secure authentication, and smooth UI/UX to enable fast, genuine connections without profile browsing or fake representations.</li>
         </ul>
@@ -81,7 +81,7 @@ const PROJECTS = [
     subtitle: 'Meal Planning App',
     desc: (
       <>
-        Developed a Flutter mobile app for Whole Food Plant-Based (WFPB) meal planning. Implemented personalized weekly/monthly meal plans with 200+ recipes. Built smart recipe search with dietary filters (Vegan, WFPB, Raw).
+        Crafted a Flutter mobile app for Whole Food Plant-Based (WFPB) meal planning. Implemented personalized weekly/monthly meal plans with 200+ recipes. Built smart recipe search with dietary filters (Vegan, WFPB, Raw).
         <ul style={{ paddingLeft: '1.2rem', marginTop: '8px', marginBottom: 0 }}>
           <li>Created meal planner for daily meals and special occasions.</li>
           <li>Integrated E-Shop for digital cookbook and content sales.</li>

@@ -1,14 +1,14 @@
 const EXPERIENCE = [
   {
-    period: 'Jan 2024 – Present',
-    title: 'Senior Flutter Developer',
-    org: 'Elaunch Solution',
+    period: 'Jan 2024 – May 2026',
+    title: 'Flutter Developer',
+    org: 'Elaunch Solutions Pvt. Ltd.',
     desc: (
       <ul style={{ paddingLeft: '1.2rem', margin: 0, display: 'flex', flexDirection: 'column', gap: '6px' }}>
-        <li>Designed and developed scalable Flutter applications across Android, iOS, Windows, and macOS</li>
+        <li>Designed and developed 3 scalable Flutter applications across Android, iOS, Windows, and macOS</li>
         <li>Implemented clean architecture using Bloc/Cubit for maintainable and testable code</li>
         <li>Integrated REST APIs and WebSocket-based real-time systems</li>
-        <li>Improved app performance and reduced crashes through optimization and debugging</li>
+        <li>Optimized Flutter applications by resolving performance bottlenecks, improving UI responsiveness, and reducing production issues through advanced debugging techniques</li>
         <li>Managed app releases, updates, and deployments on Play Store</li>
       </ul>
     ),
@@ -23,11 +23,11 @@ const EXPERIENCE = [
   {
     period: 'Jan 2022 – Jan 2024',
     title: 'Associate Flutter Developer',
-    org: 'Elaunch Solution',
+    org: 'Elaunch Solutions Pvt. Ltd.',
     desc: (
       <ul style={{ paddingLeft: '1.2rem', margin: 0, display: 'flex', flexDirection: 'column', gap: '6px' }}>
-        <li>Developed cross-platform mobile applications with responsive UI/UX</li>
-        <li>Worked with Firebase services including Authentication, Firestore, and FCM</li>
+        <li>Built 2–3 cross-platform Flutter applications with responsive UI/UX across Android and iOS</li>
+        <li>Integrated Firebase services (Authentication, Firestore, FCM) across 2–3 applications</li>
         <li>Built reusable UI components and optimized app performance</li>
       </ul>
     ),

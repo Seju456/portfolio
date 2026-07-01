@@ -49,7 +49,7 @@ export default function Contact() {
     { icon: '📧', label: 'Email', value: 'sejalgohil001@gmail.com', href: 'mailto:sejalgohil001@gmail.com' },
     { icon: '📞', label: 'Phone', value: '+91 992-440-2211', href: 'tel:+919924402211' },
     { icon: '📍', label: 'Location', value: 'Surat, Gujarat, India', href: null },
-    { icon: '💼', label: 'LinkedIn', value: 'Connect on LinkedIn', href: 'https://www.linkedin.com/in/sejal-gohil' },
+    { icon: '💼', label: 'LinkedIn', value: 'Connect on LinkedIn', href: 'https://www.linkedin.com/in/sejal-gohil-411143244' },
   ];
 
   return (
@@ -95,18 +95,6 @@ export default function Contact() {
                   </div>
                 )
               ))}
-            </div>
-
-            {/* Languages */}
-            <div style={{ marginTop: '32px' }}>
-              <p style={{ fontSize: '13px', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '1px', marginBottom: '12px' }}>
-                Languages
-              </p>
-              <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                {['🇮🇳 Gujarati', '🇮🇳 Hindi', '🇬🇧 English'].map(lang => (
-                  <span key={lang} className="info-badge purple" style={{ fontSize: '13px' }}>{lang}</span>
-                ))}
-              </div>
             </div>
           </div>
 

@@ -20,10 +20,10 @@ export default function About() {
         <div style={{ maxWidth: '800px', margin: '0 auto' }}>
           <div className="about-text" style={{ textAlign: 'center' }}>
             <p style={{ fontSize: '1.1rem' }}>
-              Results-driven <strong>Senior Flutter Developer</strong> with <strong>4+ years of experience</strong> building scalable, high-performance cross-platform applications for Android, iOS, and desktop. Expertise in state management, real-time systems, and API integrations.
+              <strong>Flutter Developer</strong> with <strong>4+ years of experience</strong> building high-performance cross-platform applications for Android, iOS, Windows, and macOS. Experienced in developing production-ready solutions across fintech, crypto wallet, real-time communication, team collaboration, event management, and e-commerce domains.
             </p>
             <p style={{ fontSize: '1.1rem' }}>
-              Proven ability to deliver production-ready applications with strong focus on <strong>performance optimization</strong>, <strong>clean architecture</strong>, and <strong>user experience</strong>. Experienced in fintech, real-time communication, and e-commerce domains.
+              Strong expertise in Flutter, Dart, Bloc/Cubit, Clean Architecture, Firebase, REST APIs, WebSocket integration, and local database management. Proven track record of delivering scalable applications from architecture and development to deployment, with a strong focus on performance optimization, code quality, and user experience.
             </p>
 
             <div className="about-highlights" style={{ textAlign: 'left', marginTop: '32px' }}>

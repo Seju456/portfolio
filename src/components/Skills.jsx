@@ -45,13 +45,22 @@ const SKILLS = [
     tags: ['Git', 'Android Studio'],
   },
   {
+    name: 'CI/CD & Deployment',
+    icon: '🚀',
+    desc: 'Automated builds & store management',
+    color: '#34d399',
+    bg: 'linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(52,211,153,0.04) 100%)',
+    border: 'rgba(52,211,153,0.35)',
+    tags: ['Basic CI/CD Concepts', 'Play Store Development'],
+  },
+  {
     name: 'Other Skills',
     icon: '🎨',
     desc: 'Engineering & best practices',
     color: '#c084fc',
     bg: 'linear-gradient(135deg, rgba(192,132,252,0.15) 0%, rgba(192,132,252,0.04) 100%)',
     border: 'rgba(192,132,252,0.35)',
-    tags: ['Clean Architecture', 'Responsive UI Design', 'Performance Optimization', 'Debugging'],
+    tags: ['Clean Architecture', 'MVVM', 'Responsive UI Design', 'Performance Optimization', 'Debugging'],
   },
 ];
 
